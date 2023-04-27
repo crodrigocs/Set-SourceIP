@@ -12,7 +12,7 @@
 
 .TAGS SkipAsSource, Set-NetIPAddress
 
-.LICENSEURI https://github.com/crodrigocs/Set-SourceIP/blob/master/LICENSE
+.LICENSEURI https://github.com/crodrigocs/Set-SourceIP/blob/main/LICENSE
 
 .PROJECTURI https://github.com/crodrigocs/Set-SourceIP
 
